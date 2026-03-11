@@ -1,4 +1,4 @@
-# Clustering Judul Skripsi Teknik Informatika ITERA (Word Embedding + KMeans)
+# Clustering Judul Skripsi Teknik Informatika ITERA
 
 Data terakhir discrape 1 Maret 2026
 
